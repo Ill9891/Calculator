@@ -1,0 +1,26 @@
+.main-frame{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border: solid black;
+    text-align: center;
+    background-color: cornsilk;
+}
+
+.main-frame .number-field{
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.main-frame .buttons{
+    text-align: center;
+}
+
+.main-frame .buttons button{
+    height: 50px;
+    width: 50;
+}
+
+.operations-block{
+    margin-top: 20px;
+}
